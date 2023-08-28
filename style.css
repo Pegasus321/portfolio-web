@@ -472,4 +472,11 @@ svg{
     font-size: 18px;
   }
 }
+.pdf {
+  padding: 12px;
+  background-color: #f0f0f0;
 
+  color: #000000;
+  text-decoration: none;
+  border-radius: 12px;
+}

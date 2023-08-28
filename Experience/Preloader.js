@@ -26,6 +26,7 @@ export default class Preloader extends EventEmitter {
 
     setAssets() {
         convert(document.querySelector(".intro-text"));
+       
         convert(document.querySelector(".hero-main-title"));
         convert(document.querySelector(".hero-main-description"));
         convert(document.querySelector(".hero-second-subheading"));
